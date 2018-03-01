@@ -13,6 +13,14 @@
 * npm i -g prettier-beauty
 * prettier-beauty --entry=[entry]
 
+```
+eg:
+
+prettier-beauty --entry=a/b.js
+
+prettier-beauty --entry=src
+```
+
 ## 本地安装
 
 * npm i -S prettier-beauty
