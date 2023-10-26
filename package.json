@@ -14,7 +14,8 @@
   "dependencies": {
     "glob": "^7.1.2",
     "htmlparser2": "^3.9.2",
-    "prettier": "^1.9.2",
+    "lodash": "^4.17.21",
+    "prettier": "^2.8.8",
     "yargs": "^10.0.3"
   }
 }
